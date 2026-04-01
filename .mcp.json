@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "freshbooks": {
+      "command": "/home/codechap/dev/mcps/mcp-server-freshbooks/target/release/freshbooks-mcp",
+      "cwd": "/home/codechap/dev/mcps/mcp-server-freshbooks"
+    }
+  }
+}
